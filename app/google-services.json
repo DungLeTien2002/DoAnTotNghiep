@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65620847620",
+    "project_id": "mood-day",
+    "storage_bucket": "mood-day.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65620847620:android:ee57a75607222d20961951",
+        "android_client_info": {
+          "package_name": "com.fansipan.habit.tracker.mood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65620847620-h3l6khinvh57duend4ik7rl7sau82ffr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR-ER_PANaEt0HCeoDMFo5DI8TIVgDeog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65620847620-ajfodnpagjnffj9kq3b0kuep8j3ctb6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
